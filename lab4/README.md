@@ -6,14 +6,14 @@
   <img src="https://img.shields.io/badge/Models-NN%20vs%20AlexNet%20vs%20TinyVGG-333333"/>
 </p>
 
-# TITLE: Comparison between three different deep learning architectures (NN, AlexNet, and TinyVGG) on the CIFAR-10 dataset
+# **TITLE: Comparison between three different deep learning architectures (NN, AlexNet, and TinyVGG) on the CIFAR-10 dataset**
 
-## INTRODUCTION:
+## **INTRODUCTION:**
 
 In this project, 3 deep learning architectures are implemented on the CIFAR-10 dataset and then their results are evaluated accordingly.
 Their impact on the performance on the image classification with respect to their architecture will be studied.
 
-## DATASET(CIFAR-10)
+## **DATASET(CIFAR-10)**
 
 ### Statisics:
 
@@ -40,7 +40,7 @@ Their impact on the performance on the image classification with respect to thei
 |Truck       9
 
 
-## BACKGROUND(Architecture)
+## **BACKGROUND(Architecture)**
 
 ### Neural Network:
 
@@ -63,6 +63,15 @@ It has smaller 3x3 kernels. It works best for smaller scale inputs like CIFAR-10
 It provides a good balance between complexity and performance.
 
 
-## EXPECTATIONS
+# **EXPECTATIONS**
 
-In this comparison, AlexNet is expected to outperform the other two models. TinyVGG is expected to give output close to AlexNet. The NN is expected to be relatively worse due to it ignoring spatial information. AlexNet and TinyVGG preserve spatial hierarchies and can detect pattern in images.
+In this comparison, AlexNet is expected to outperform the other two models. TinyVGG is expected to give output close to AlexNet. The NN is expected to be relatively worse due to it ignoring spatial information. AlexNet and TinyVGG preserve spatial hierarchies and can detect pattern in images. 
+
+# **RESULTS**
+
+PENDING...
+
+
+# **DISCUSSION AND CONCLUSION**
+
+PENDING...
